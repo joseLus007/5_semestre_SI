@@ -1,0 +1,11 @@
+body{
+	text-align: center;
+}
+.titulo{
+	background-position: left;
+}
+.borda{
+	border:  10px solid transparent ;
+	/*border-image: url(imagens/test_01.jpg) 50 round; {tem como colocar imagens da borda.}*/
+
+}
